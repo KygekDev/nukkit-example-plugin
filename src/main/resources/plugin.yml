@@ -1,0 +1,8 @@
+name: $project_name
+main: ${artifact_group}.ExampleMod
+version: $project_version
+api: ["1.0.5"]
+author: $project_author
+description: $project_description
+website: $project_website
+license: $project_license
